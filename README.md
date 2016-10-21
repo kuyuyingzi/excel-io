@@ -1,5 +1,5 @@
 # excel-io
-excel导入导出通用工具包
+excel导入导出通用工具包，详细介绍http://blog.csdn.net/kuyuyingzi/article/details/51323072
 #导入示例：
 	/**
 	 * 导入用户校验类
